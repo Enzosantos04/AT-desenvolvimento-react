@@ -30,10 +30,10 @@ const MainLayout = () => {
             <Link to="/part2/ex5">Exercícios 5 (Admin Checkbox)</Link>
           </li>
           <li>
-            <Link to="/part2/ex6">Exercícios 6 (Countries)</Link>
+            <Link to="/part2/ex6">Exercícios 6 ( Países)</Link>
           </li>
           <li>
-            <Link to="/part2/ex7">Exercícios 7 (Product List)</Link>
+            <Link to="/part2/ex7">Exercícios 7 (Lista de Produtos)</Link>
           </li>
           <li>
             <Link to="/part2/ex8">Exercícios 8 (Meal DB)</Link>
@@ -43,32 +43,34 @@ const MainLayout = () => {
             <strong>Part 3</strong>
           </li>
           <li>
-            <Link to="/part3/ex9">Exercícios 9 (Basic Form)</Link>
+            <Link to="/part3/ex9">Exercícios 9 (form simples)</Link>
           </li>
           <li>
-            <Link to="/part3/ex10">Exercícios 10 (Manual Validation)</Link>
+            <Link to="/part3/ex10">Exercícios 10 (Validação manual)</Link>
           </li>
           <li>
             <Link to="/part3/ex11">Exercícios 11 (React Hook Form)</Link>
           </li>
           <li>
-            <Link to="/part3/ex12">Exercícios 12 (RHF Validation)</Link>
+            <Link to="/part3/ex12">
+              Exercícios 12 (React hook form Validação )
+            </Link>
           </li>
 
           <li>
             <strong>Part 4 (Special)</strong>
           </li>
           <li>
-            <Link to="/admin-selecionado">Admin Selected</Link>
+            <Link to="/admin-selecionado">Admin Selecionado</Link>
           </li>
           <li>
-            <Link to="/admin-desligado">Admin Deselected</Link>
+            <Link to="/admin-desligado">Admin Desligado</Link>
           </li>
           <li>
-            <Link to="/brasil-selecionado">Brazil Selected</Link>
+            <Link to="/brasil-selecionado">Brazil Selecionado</Link>
           </li>
           <li>
-            <Link to="/form-preenchido">Pre-filled Form</Link>
+            <Link to="/form-preenchido">Formulário Pré-preenchido</Link>
           </li>
         </ul>
       </nav>
