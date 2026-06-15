@@ -16,7 +16,7 @@ const Exercicio5 = ({ isAdmin }) => {
       <p>
         {isUserAdmin
           ? "O usuário atual é administrador."
-          : "O usuário atual não é administrador."}
+          : "O usuário atual é colaborador."}
       </p>
     </div>
   );
