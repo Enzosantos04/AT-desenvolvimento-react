@@ -1,0 +1,32 @@
+.mainLayout {
+  display: flex;
+  min-height: 100vh;
+}
+
+.sideMenu {
+  width: 250px;
+  background: var(--bg);
+  border-right: 1px solid var(--border);
+  padding: 20px;
+  text-align: left;
+  overflow-y: auto;
+}
+
+.sideMenu ul {
+  list-style: none;
+  padding: 0;
+}
+
+.sideMenu li {
+  margin: 10px 0;
+}
+
+.sideMenu a {
+  text-decoration: none;
+  color: var(--accent);
+}
+
+.content {
+  flex: 1;
+  padding: 40px;
+}
